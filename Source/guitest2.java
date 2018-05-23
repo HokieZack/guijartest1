@@ -1,14 +1,13 @@
-package zacksmith.guijartest1;
 
 
 import javax.swing.*;
 
-public class guitest1 {
+public class guitest2 {
 
 	public static void main (String[] args) {
 		
-		JFrame frame = new JFrame("King Zacks Frame");
-		JButton button = new JButton("King Zacks Button");
+		JFrame frame = new JFrame();
+		JButton button = new JButton();
 		
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		

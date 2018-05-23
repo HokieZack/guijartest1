@@ -1,4 +1,4 @@
-package zacksmith.guijartest1;
+package guitest;
 
 
 import javax.swing.*;
